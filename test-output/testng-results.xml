@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2018-09-19T05:30:47Z" finished-at="2018-09-19T05:30:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2018-09-19T05:30:47Z" finished-at="2018-09-19T05:30:47Z">
+      <class name="com.qa.test.ArthematicOperation">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.test.ArthematicOperation@56f4468b]" name="add" duration-ms="17" started-at="2018-09-19T05:30:47Z" finished-at="2018-09-19T05:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="subs()[pri:0, instance:com.qa.test.ArthematicOperation@56f4468b]" name="subs" duration-ms="4" started-at="2018-09-19T05:30:47Z" finished-at="2018-09-19T05:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subs -->
+      </class> <!-- com.qa.test.ArthematicOperation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
